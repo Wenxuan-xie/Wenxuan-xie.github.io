@@ -1,0 +1,965 @@
+{
+    "citems": [
+        {
+            "rating": {
+                "score": "7.7",
+                "count": 1,
+                "tip": "小编评分",
+                "isEffect": true
+            },
+            "tags": [],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "第13卷 第十章 高手对垒",
+            "chaptersCount": 107,
+            "isSerial": true,
+            "retentionRatio": "49.12",
+            "serializeWordCount": 0,
+            "wordCount": 326220,
+            "followerCount": 0,
+            "latelyFollower": 1067,
+            "totalFollower": 1067,
+            "postCount": 1,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": false,
+            "allowVoucher": true,
+            "allowMonthly": false,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": false,
+            "safelevel": 5,
+            "isFineBook": false,
+            "contentLevel": -1,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 5,
+            "isBigVip": false,
+            "_id": "5833edf145eb4e9f0352abfc",
+            "longIntro": "一个年轻的黑客由于法律的变更，无法在潇洒的生活。在万般无奈中点下进入无限世界的确定键。并用自己高明的黑客技艺修改了几个参数指令，连房间一起穿越到了黑客帝国的世界。并利用各世界位面的高科技，将自己的房间改装成了宇航巡洋舰。一路躲避着主神的追杀，一边找到了返回真实世界的接口。并带着倾盆的财富回到了原来的现实之世界中。。。。",
+            "author": "冰星之雨",
+            "updated": "2018-12-26T22:38:10.508Z",
+            "minorCateV2": "未来世界",
+            "majorCate": "科幻",
+            "minorCate": "未来世界",
+            "title": "飞行的家",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1389890%2F1389890_7d7bb9863b5048518d819e454bf3f561.jpg%2F",
+            "anchors": [],
+            "majorCateV2": "科幻",
+            "starRatings": [
+                {
+                    "star": 0,
+                    "count": 0
+                },
+                {
+                    "star": 1,
+                    "count": 0
+                },
+                {
+                    "star": 2,
+                    "count": 0
+                },
+                {
+                    "star": 3,
+                    "count": 2
+                },
+                {
+                    "star": 4,
+                    "count": 3
+                },
+                {
+                    "star": 5,
+                    "count": 0
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "未来世界",
+            "donate": false,
+            "copyright": "阅文集团",
+            "enSource": "yuewen",
+            "_gg": true,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“阅文集团”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由阅文集团授权上海元聚进行电子制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": 9,
+                "count": 5411,
+                "tip": "5411人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "保安",
+                "兵王",
+                "女总裁",
+                "女神",
+                "校花"
+            ],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "第7651章 猎兽积分",
+            "chaptersCount": 7648,
+            "isSerial": true,
+            "retentionRatio": "65.4",
+            "serializeWordCount": 2138,
+            "wordCount": 23772464,
+            "followerCount": 26485,
+            "latelyFollower": 564622,
+            "totalFollower": 6210843,
+            "postCount": 7560,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": true,
+            "safelevel": 5,
+            "isFineBook": true,
+            "contentLevel": 3,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 5409,
+            "isBigVip": false,
+            "_id": "508de73e55e53b9a1a000031",
+            "longIntro": "他是雇佣兵世界的王者，他是令各国元首头疼的兵王！为朋友，他甘愿两肋插刀；为亲人，不惜血溅五步！是龙，终要翱翔于九天之上，携风云之势，一路高歌猛进，混的风生水起。",
+            "title": "超级兵王",
+            "updated": "2021-01-09T01:49:55.956Z",
+            "minorCateV2": "热血兵王",
+            "majorCateV2": "都市",
+            "creater": "iPhone 4",
+            "anchors": [],
+            "minorCate": "都市生活",
+            "majorCate": "都市",
+            "author": "步千帆",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F685385%2F685385_060ceb64731c4b5fa4b52353efeb74be.jpg%2F",
+            "starRatings": [
+                {
+                    "star": 0,
+                    "count": 10
+                },
+                {
+                    "star": 1,
+                    "count": 703
+                },
+                {
+                    "star": 2,
+                    "count": 296
+                },
+                {
+                    "star": 3,
+                    "count": 413
+                },
+                {
+                    "star": 4,
+                    "count": 562
+                },
+                {
+                    "star": 5,
+                    "count": 3425
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "都市生活",
+            "donate": false,
+            "copyright": "17K小说网",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“17K小说网”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由上海元聚进行电子本制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": 9.5,
+                "count": 15454,
+                "tip": "15454人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "东方",
+                "丹药",
+                "功法",
+                "天才流",
+                "平凡魔术师",
+                "废材",
+                "异界",
+                "机智",
+                "激战",
+                "热血",
+                "爽文",
+                "玄幻",
+                "练功流",
+                "美女",
+                "龙尘"
+            ],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "第四千一百零六章 星辉月神丹",
+            "chaptersCount": 4110,
+            "isSerial": true,
+            "retentionRatio": "74.55",
+            "serializeWordCount": 4380,
+            "wordCount": 12133552,
+            "followerCount": 0,
+            "latelyFollower": 574732,
+            "totalFollower": 6896788,
+            "postCount": 5816,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": false,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": false,
+            "safelevel": 3,
+            "isFineBook": true,
+            "contentLevel": 3,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 15451,
+            "isBigVip": false,
+            "_id": "561cea7edf101a0071ae6bfb",
+            "longIntro": "是丹帝重生？是融合灵魂？被盗走灵根、灵血、灵骨的三无少年——龙尘，凭借着记忆中的炼丹神术，修行神秘功法九星霸体诀，拨开重重迷雾，解开惊天之局。\r\n手掌天地乾坤，脚踏日月星辰，镇压恶鬼邪神。\r\n江湖传闻：龙尘一到，地吼天啸。龙尘一出，鬼泣神哭。",
+            "majorCateV2": "玄幻",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F890467%2F890467_ab7c2ec5b6554abcaa331509dc0a06c6.jpg%2F",
+            "majorCate": "玄幻",
+            "author": "平凡魔术师",
+            "minorCateV2": "东方玄幻",
+            "anchors": [],
+            "updated": "2021-01-08T13:07:55.987Z",
+            "minorCate": "东方玄幻",
+            "title": "九星霸体诀",
+            "creater": "",
+            "starRatings": [
+                {
+                    "count": 31,
+                    "star": 0
+                },
+                {
+                    "count": 1016,
+                    "star": 1
+                },
+                {
+                    "count": 355,
+                    "star": 2
+                },
+                {
+                    "count": 598,
+                    "star": 3
+                },
+                {
+                    "count": 1233,
+                    "star": 4
+                },
+                {
+                    "count": 12218,
+                    "star": 5
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "东方玄幻",
+            "donate": false,
+            "copyright": "17K小说网",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“17K小说网”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由上海元聚进行电子本制作与发行",
+            "discount": null
+        }
+    ],
+    "hotList": [
+        {
+            "rating": {
+                "score": 9,
+                "count": 11,
+                "tip": "11人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "娇妻",
+                "生活",
+                "美女",
+                "草根",
+                "轻松",
+                "都市"
+            ],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "第346章：不再辜负（完)(三)",
+            "chaptersCount": 346,
+            "isSerial": false,
+            "retentionRatio": "45.8",
+            "serializeWordCount": 0,
+            "wordCount": 991415,
+            "followerCount": 0,
+            "latelyFollower": 5728,
+            "totalFollower": 74472,
+            "postCount": 6,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": false,
+            "safelevel": 7,
+            "isFineBook": false,
+            "contentLevel": -1,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 11,
+            "isBigVip": true,
+            "_id": "574d3b258f40ec991f2b865a",
+            "longIntro": "婚礼那天，新娘李丽失踪，我只好和她姐姐李艳举行婚礼。从此以后，我和李艳就被李丽怀疑。然而我却在婚后不久发现李丽不但跟初恋情人频繁联系，还跟领导走的很近……",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1127448%2F_1127448_008180.jpg%2F",
+            "author": "阿傩",
+            "updated": "2016-08-08T20:48:02.808Z",
+            "minorCateV2": "都市生活",
+            "majorCate": "都市",
+            "majorCateV2": "都市",
+            "minorCate": "都市生活",
+            "title": "婚后危机",
+            "anchors": [],
+            "starRatings": [
+                {
+                    "star": 0,
+                    "count": 0
+                },
+                {
+                    "star": 1,
+                    "count": 0
+                },
+                {
+                    "star": 2,
+                    "count": 0
+                },
+                {
+                    "star": 3,
+                    "count": 2
+                },
+                {
+                    "star": 4,
+                    "count": 1
+                },
+                {
+                    "star": 5,
+                    "count": 8
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "都市生活",
+            "donate": false,
+            "copyright": "云阅读",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“云阅读”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由上海元聚进行电子本制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": 9.2,
+                "count": 50,
+                "tip": "50人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "傲娇",
+                "古言",
+                "打脸",
+                "权谋",
+                "架空",
+                "欢喜冤家",
+                "正剧",
+                "王妃",
+                "种田文",
+                "穿越时空"
+            ],
+            "gender": [
+                "female"
+            ],
+            "lastChapter": "第1609章 长宁随笔（三）",
+            "chaptersCount": 1608,
+            "isSerial": false,
+            "retentionRatio": "46",
+            "serializeWordCount": 245,
+            "wordCount": 3272840,
+            "followerCount": 0,
+            "latelyFollower": 15492,
+            "totalFollower": 232381,
+            "postCount": 6,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": true,
+            "safelevel": 5,
+            "isFineBook": false,
+            "contentLevel": -1,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 50,
+            "isBigVip": true,
+            "_id": "5caf0f9582ef180de903b699",
+            "title": "1胎2宝，腹黑邪王赖上门",
+            "author": "甜小丫",
+            "longIntro": "作为海城人民医院，外科二把手，云若夕一直觉得，自己救人无数，没有功劳，也有苦劳。谁曾想，一朝穿越，家徒四壁，左脸毁容，还吃了上顿没下顿？最关键，脚边还有两只嗷嗷待哺的小包子？？？云若夕有些偏头疼！好在上天可怜见，让她一出门，就捡到个免费劳动力。只是这免费劳动力有毒，自打她说，他是她弟后，这十里八乡的女人都发了疯，成天往她破屋钻。被弄得不厌其烦的云若夕后悔了，早知道就说是相公了……",
+            "majorCate": "古代言情",
+            "minorCate": "穿越时空",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F3369337%2F3369337_b0dd5a66af714991b4315ced9d799d74.jpg%2F",
+            "majorCateV2": "古代言情",
+            "minorCateV2": "穿越时空",
+            "anchors": [],
+            "updated": "2020-05-19T07:40:25.509Z",
+            "starRatings": [
+                {
+                    "count": 0,
+                    "star": 0
+                },
+                {
+                    "count": 4,
+                    "star": 1
+                },
+                {
+                    "count": 1,
+                    "star": 2
+                },
+                {
+                    "count": 2,
+                    "star": 3
+                },
+                {
+                    "count": 5,
+                    "star": 4
+                },
+                {
+                    "count": 38,
+                    "star": 5
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "穿越时空",
+            "donate": false,
+            "copyright": "言情书殿",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“言情书殿”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由言情书殿授权上海元聚进行电子书制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": 9.4,
+                "count": 1124,
+                "tip": "1124人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "养成",
+                "强强",
+                "正剧",
+                "种田文",
+                "穿越",
+                "萌娃",
+                "重生",
+                "青梅竹马"
+            ],
+            "gender": [
+                "female"
+            ],
+            "lastChapter": "作品正文卷 第554章搬走",
+            "chaptersCount": 554,
+            "isSerial": true,
+            "retentionRatio": "53.45",
+            "serializeWordCount": 717,
+            "wordCount": 1791147,
+            "followerCount": 0,
+            "latelyFollower": 41662,
+            "totalFollower": 499948,
+            "postCount": 20,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": true,
+            "safelevel": 5,
+            "isFineBook": true,
+            "contentLevel": 3,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 1124,
+            "isBigVip": true,
+            "_id": "5b4ed5888cdb2605a3ad82f7",
+            "longIntro": "重生到一贫如洗的家里，底下还有一堆的小萝卜头，她不强悍一点，怎么撑起这个家？",
+            "author": "轻言",
+            "updated": "2021-01-07T16:55:55.854Z",
+            "majorCate": "古代言情",
+            "minorCateV2": "种田经商",
+            "majorCateV2": "古代言情",
+            "minorCate": "经商种田",
+            "title": "农门悍妻",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F2617369%2F2617369_7bc2eb82f282496fae161932d5880251.jpg%2F",
+            "anchors": [],
+            "starRatings": [
+                {
+                    "star": 0,
+                    "count": 3
+                },
+                {
+                    "star": 1,
+                    "count": 32
+                },
+                {
+                    "star": 2,
+                    "count": 57
+                },
+                {
+                    "star": 3,
+                    "count": 86
+                },
+                {
+                    "star": 4,
+                    "count": 153
+                },
+                {
+                    "star": 5,
+                    "count": 793
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "经商种田",
+            "donate": false,
+            "copyright": "磨铁中文网",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“磨铁中文网”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由上海元聚进行电子本制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": 8.7,
+                "count": 114,
+                "tip": "114人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "战争",
+                "文明",
+                "深渊",
+                "机甲",
+                "狩魔手记",
+                "深渊文明",
+                "橙红年代",
+                "云昊羽",
+                "热血",
+                "爽文",
+                "湛影"
+            ],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "第九百八十四章 千年之约（大结局）",
+            "chaptersCount": 984,
+            "isSerial": false,
+            "retentionRatio": "61.53",
+            "serializeWordCount": 0,
+            "wordCount": 3003238,
+            "followerCount": 405,
+            "latelyFollower": 21432,
+            "totalFollower": 235754,
+            "postCount": 31,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": true,
+            "safelevel": 5,
+            "isFineBook": false,
+            "contentLevel": 0,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 114,
+            "isBigVip": false,
+            "_id": "508e1c42d0af57470300003b",
+            "longIntro": "大宇航时代，人类已经在璀璨星辰间建立了庞大的帝国！一个身处社会最底层的少年，无意中邂逅一个法力神通尽失的残魂，由此卷入异族文明的内乱，机缘巧合下踏上了星际舞台。湛影族的秘密，波江文明的野望，人类与异族的生存空间争夺战。浩瀚星海，谁主沉浮！",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F685562%2F685562_8c8e7d884f9c49f685d8dc1167f8b55b.jpg%2F",
+            "author": "非主流神棍",
+            "minorCateV2": "机甲战争",
+            "updated": "2015-10-15T20:03:59.776Z",
+            "anchors": [],
+            "minorCate": "古武机甲",
+            "majorCate": "科幻",
+            "majorCateV2": "科幻",
+            "title": "星海猎人",
+            "creater": "iPhone 5",
+            "starRatings": [
+                {
+                    "count": 1,
+                    "star": 0
+                },
+                {
+                    "count": 15,
+                    "star": 1
+                },
+                {
+                    "count": 9,
+                    "star": 2
+                },
+                {
+                    "count": 15,
+                    "star": 3
+                },
+                {
+                    "count": 15,
+                    "star": 4
+                },
+                {
+                    "count": 59,
+                    "star": 5
+                }
+            ],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "古武机甲",
+            "donate": false,
+            "copyright": "17K小说网",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“17K小说网”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由上海元聚进行电子本制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": "7.2",
+                "count": 1,
+                "tip": "小编评分",
+                "isEffect": true
+            },
+            "tags": [
+                "小白文",
+                "捡漏",
+                "爽文",
+                "装逼",
+                "鉴宝"
+            ],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "第二百六十四章 东区老房区",
+            "chaptersCount": 264,
+            "isSerial": true,
+            "retentionRatio": "44.37",
+            "serializeWordCount": 7052,
+            "wordCount": 606751,
+            "followerCount": 0,
+            "latelyFollower": 765,
+            "totalFollower": 765,
+            "postCount": 0,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": true,
+            "safelevel": 5,
+            "isFineBook": false,
+            "contentLevel": -1,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 5,
+            "isBigVip": false,
+            "_id": "5f8e4f8157f52882e9fb2a02",
+            "title": "鉴宝神瞳",
+            "author": "黄金指",
+            "longIntro": "何家遭逢惊天大变，家道中落，父亲疯癫，母亲重病。\n为了凑齐母亲的手术费，却被骗走祖传百年的老店。\n获得鉴宝神瞳后，何林改写悲惨人生！\n奇珍异宝，古玩字画。\n       神瞳辨异，气运藏穴。\n一双精金火眼，狂揽天下珍玩！",
+            "majorCate": "都市",
+            "minorCate": "异术超能",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F3449885%2F3449885_1c891de278a84acfa77254b6c9e2038d.jpg%2F",
+            "majorCateV2": "都市",
+            "minorCateV2": "异术超能",
+            "anchors": [],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "updated": "2021-01-09T03:33:27.229Z",
+            "starRatings": [
+                {
+                    "star": 0,
+                    "count": 0
+                },
+                {
+                    "star": 1,
+                    "count": 0
+                },
+                {
+                    "star": 2,
+                    "count": 0
+                },
+                {
+                    "star": 3,
+                    "count": 2
+                },
+                {
+                    "star": 4,
+                    "count": 3
+                },
+                {
+                    "star": 5,
+                    "count": 0
+                }
+            ],
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "异术超能",
+            "donate": false,
+            "copyright": "17K小说网",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“17K小说网”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由上海元聚进行电子本制作与发行",
+            "discount": null
+        },
+        {
+            "rating": {
+                "score": 8.9,
+                "count": 130,
+                "tip": "130人参与评分",
+                "isEffect": true
+            },
+            "tags": [
+                "升级流",
+                "同人",
+                "学生",
+                "异界",
+                "爽文",
+                "系统流"
+            ],
+            "gender": [
+                "male"
+            ],
+            "lastChapter": "正文 第2170章天骄称王，照杀不误！（下）",
+            "chaptersCount": 2170,
+            "isSerial": true,
+            "retentionRatio": "76.06",
+            "serializeWordCount": 5330,
+            "wordCount": 2348324,
+            "followerCount": 0,
+            "latelyFollower": 7604,
+            "totalFollower": 106461,
+            "postCount": 0,
+            "banned": 0,
+            "hasCp": true,
+            "allowBeanVoucher": true,
+            "allowVoucher": true,
+            "allowMonthly": true,
+            "_le": false,
+            "contentType": "txt",
+            "currency": 0,
+            "superscript": "",
+            "sizetype": -1,
+            "buytype": 0,
+            "hasCopyright": true,
+            "authorDesc": "",
+            "originalAuthor": "",
+            "allowFree": true,
+            "safelevel": 5,
+            "isFineBook": false,
+            "contentLevel": -1,
+            "isMakeMoneyLimit": false,
+            "starRatingCount": 130,
+            "isBigVip": true,
+            "_id": "5e86c5bf68df507e04c7a068",
+            "title": "在林正英世界除妖秒速升级999",
+            "author": "麒麟方寸山",
+            "longIntro": "高中生叶凡穿越民国乱世，苟在山上三年方才开启仙武至尊功德系统，下山之后，发现这居然是林正英僵尸世界。\n开局系统奖励百倍加持天赋，从此走上人生巅峰。\n【叮！宿主攻击行尸，功德点+1】\n【叮！宿主帮助幽灵，功德点+1】\n【叮！宿主宿主气血如炉，震慑妖魔，功德点+5】\n【叮！系统升级，宿主可直接用功德点提升修为。】\n九叔见我骨骼清奇，要收我为徒？\n不好意思，我是有系统的男人，九叔你以后跟我混吧！\n四目道长要用术法对付我？\n不好意思，你的定身咒对我无用！\n任婷婷要当我老婆？\n我只能勉为其难答应了。\n妖魔乱世，我以我血镇轩辕！\n不论妖魔、僵尸、幽灵、精怪，我凭借系统直接吊打！",
+            "majorCate": "同人",
+            "minorCate": "小说同人",
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F3431263%2F3431263_046b32490fed4802a93ad3e293ef6746.jpg%2F",
+            "majorCateV2": "轻小说",
+            "minorCateV2": "衍生同人",
+            "anchors": [],
+            "bookVideos": {
+                "video": [],
+                "cover": ""
+            },
+            "updated": "2021-01-08T12:20:26.021Z",
+            "starRatings": [
+                {
+                    "star": 0,
+                    "count": 1
+                },
+                {
+                    "star": 1,
+                    "count": 13
+                },
+                {
+                    "star": 2,
+                    "count": 11
+                },
+                {
+                    "star": 3,
+                    "count": 10
+                },
+                {
+                    "star": 4,
+                    "count": 12
+                },
+                {
+                    "star": 5,
+                    "count": 83
+                }
+            ],
+            "latelyFollowerBase": 0,
+            "minRetentionRatio": 0,
+            "advertRead": true,
+            "cat": "小说同人",
+            "donate": false,
+            "copyright": "青果读书",
+            "enSource": "",
+            "_gg": false,
+            "isForbidForFreeApp": false,
+            "isAllowNetSearch": false,
+            "limit": false,
+            "copyrightInfo": "本书数字版权由“青果读书”提供，并由其授权上海元聚网络科技有限公司制作发行。若书中含有不良信息，请积极告知客服。",
+            "copyrightDesc": "本书由青果读书授权上海元聚进行电子书制作与发行",
+            "discount": null
+        }
+    ]
+}
